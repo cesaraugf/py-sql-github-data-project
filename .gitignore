@@ -1,0 +1,27 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks (checkpoints automáticos)
+.ipynb_checkpoints/
+
+# Bancos de dados e arquivos grandes
+*.db
+data/
+
+# Ambiente virtual
+venv/
+.env
+
+# Configurações do VS Code
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
+*.tmp
